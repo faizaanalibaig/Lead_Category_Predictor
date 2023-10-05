@@ -1,0 +1,18 @@
+Jupyter notebook | Colab notebook
+Python
+numpy
+pandas
+matplotlib
+seaborn
+sklearn
+Logistic Reagression
+MultinomialNB (Naive Bayes)
+KNeighborsClassifier
+SVC [support vector Classifier]
+DecisionTreeClassifier
+RandomForestClassifier
+BaggingClassifier
+GridSearchCV
+RandomizedSearchCV
+GB : Gradient Boosting
+XGB: XGBRegressor
