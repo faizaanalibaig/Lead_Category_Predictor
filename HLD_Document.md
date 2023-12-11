@@ -54,4 +54,4 @@ The LeadCategoryPredictor project involves data preprocessing, exploratory data 
 
 This HLD document serves as a guide for project development and provides a roadmap for implementing and deploying the lead categorization model.
 
-**Note:** Detailed technical specifications, algorithms, and code implementation details are typically provided in separate ipynb file sections of the project repository.
+**Note:** Detailed technical specifications, algorithms, and code implementation details are typically provided in a separate ipynb file section of the project repository.
